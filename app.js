@@ -191,7 +191,7 @@ function pickImageCount() {
   const queryParams = new URLSearchParams(window.location.search);
   const paramCount = Number(queryParams.get("img"));
 
-  if (Number.isInteger(paramCount) && paramCount >= 1 && paramCount <= 4) {
+  if (Number.isInteger(paramCount) && paramCount >= 1 && paramCount <= 2) {
     return paramCount;
   }
 
