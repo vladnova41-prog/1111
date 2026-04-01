@@ -37,27 +37,32 @@ Configured in `app.js` (`redirectLinks` array):
 ## Image Setup
 
 Hero section (4 images in grid):
+
 - `m0.webp`
 - `m01.webp`
 - `m110.webp`
 - `m20.webp`
 
 Promo section (2 images):
+
 - `m110.webp`
 - `m20.webp`
 
 Images use `object-fit: cover` with `object-position: center top` to show faces and crop legs.
 :
+
 ```bash
 docker build -t lend-page .
 ```
 
 Run:
+
 ```bash
 docker run -d -p 8080:8080 --name lend-page lend-page
 ```
 
 Visiter run --rm -p 8080:8080 joi-prelanding
+
 ```
 
 Open: <http://localhost:8080>
