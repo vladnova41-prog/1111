@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1066" viewBox="0 0 800 1066" role="img" aria-label="Image placeholder">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#1c0b3f"/>
+      <stop offset="100%" stop-color="#0a031f"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1066" fill="url(#g)"/>
+  <circle cx="400" cy="360" r="108" fill="#ffffff" fill-opacity="0.15"/>
+  <rect x="220" y="540" width="360" height="170" rx="85" fill="#ffffff" fill-opacity="0.12"/>
+  <text x="400" y="860" text-anchor="middle" fill="#f0e7ff" fill-opacity="0.7" font-size="34" font-family="Segoe UI, sans-serif">Dressed Preview</text>
+</svg>
