@@ -195,7 +195,7 @@ function pickImageCount() {
     return paramCount;
   }
 
-  return 4;
+  return 2;
 }
 
 function renderVisuals() {
