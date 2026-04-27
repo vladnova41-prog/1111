@@ -1,21 +1,5 @@
 const redirectLinks = [
-  "https://lp3.joi.com/reg",
-  "https://lp3.joi.com/chamomile-boy",
-  "https://lp3.joi.com/general-boy",
-  "https://lp3.joi.com/offer",
-  "https://lp3.joi.com/bot-wizard",
-  "https://lp3.joi.com/bot-wizard-stepsister",
-  "https://lp3.joi.com/bot-wizard-goth",
-  "https://lp3.joi.com/bot-wizard-busty",
-  "https://lp3.joi.com/bot-wizard-office",
-  "https://lp3.joi.com/quizshort",
-  "https://lp3.joi.com/mesh-video2",
-  "https://lp2.joi.com/mesh-video",
-  "https://lp2.joi.com/haru_video",
-  "https://lp2.joi.com/marielle_video",
-  "https://lp1.joi.com/anime",
-  "https://lp2.joi.com/kaida-sato/3",
-  "https://lp2.joi.com/kaida-sato/5"
+https://edenai.go2cloud.org/aff_c?offer_id=35&aff_id=1849
 ];
 
 const visualFiles = [
